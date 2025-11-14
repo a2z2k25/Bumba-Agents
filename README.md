@@ -1,10 +1,10 @@
 ```
-███████╗ ██████╗ ██████╗ ████████╗██╗   ██╗    ████████╗██╗  ██╗██╗███████╗██╗   ██╗███████╗███████╗
-██╔════╝██╔═══██╗██╔══██╗╚══██╔══╝╚██╗ ██╔╝    ╚══██╔══╝██║  ██║██║██╔════╝██║   ██║██╔════╝██╔════╝
-█████╗  ██║   ██║██████╔╝   ██║    ╚████╔╝        ██║   ███████║██║█████╗  ██║   ██║█████╗  ███████╗
-██╔══╝  ██║   ██║██╔══██╗   ██║     ╚██╔╝         ██║   ██╔══██║██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ╚════██║
-██║     ╚██████╔╝██║  ██║   ██║      ██║          ██║   ██║  ██║██║███████╗ ╚████╔╝ ███████╗███████║
-╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝          ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝
+    ██╗  ██╗ ██████╗     ████████╗██╗  ██╗██╗███████╗██╗   ██╗███████╗███████╗
+    ██║  ██║██╔═████╗    ╚══██╔══╝██║  ██║██║██╔════╝██║   ██║██╔════╝██╔════╝
+    ███████║██║██╔██║       ██║   ███████║██║█████╗  ██║   ██║█████╗  ███████╗
+    ╚════██║████╔╝██║       ██║   ██╔══██║██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ╚════██║
+         ██║╚██████╔╝       ██║   ██║  ██║██║███████╗ ╚████╔╝ ███████╗███████║
+         ╚═╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝
 
 Multi-Agent Architecture for Claude Code
 ```
@@ -14,11 +14,10 @@ Multi-Agent Architecture for Claude Code
 [![Agents](https://img.shields.io/badge/Agents-40-green.svg)](#structure)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**40 specialized AI agents working together to build exceptional software. Hierarchical coordination. Production-ready patterns. Claude Code native.**
+40 specialized AI Agents. Hierarchical coordination. Production-ready patterns. Claude Code native. The Forty Thieves Agent Team combines 5 Chiefs (strategic leaders) and 35 Specialists (domain experts). Each Agent is a master of their craft, working together to unlock software excellence.
 
-Inspired by Ali Baba's tale, the Forty Thieves agency combines 5 **Chiefs** (strategic leaders) and 35 **Specialists** (domain experts) optimized for Claude Code. Each agent is a master of their craft, working together to unlock software excellence.
+🏁 **Part of the BUMBA Multi-Agent Framework** 🏁
 
-🏁 **Part of the BUMBA Framework** - Building Unified Multi-agent Business Applications
 
 ## 📂 Structure
 
@@ -71,11 +70,13 @@ Ali Baba's Forty Thieves (40 agents)
     └── Network Engineer
 ```
 
+
 ## 🎯 How It Works
 
 **Chiefs** coordinate strategy and spawn **Specialists** via the Task tool for focused execution. All agents use Claude Code native tools (Read, Write, Edit, Grep, Glob, Task, Bash) and follow the ReAct pattern.
 
 **Example**: 🟢 Engineering Chief receives auth request → spawns Backend Architect (design) + API Engineer (OAuth) + Database Specialist (schema) + 🟠 Security Auditor (review) → delivers integrated system.
+
 
 ## 🚀 Usage
 
@@ -86,6 +87,7 @@ claude code --agent chiefs/product-chief.md
 
 # Chiefs spawn specialists automatically as needed
 ```
+
 
 ## 📂 Repository
 
@@ -99,6 +101,7 @@ forty-thieves/
     ├── quality/
     └── operations/
 ```
+
 
 ## ✨ Key Features
 
@@ -115,6 +118,7 @@ forty-thieves/
 - **Enterprise-Ready** - Quality enforcement, testing automation, deployment pipelines
 - **Consistent Structure** - Predictable agent definitions across all 40 specialists
 
+
 ## 🏁 BUMBA Framework
 
 The Forty Thieves agency is the **multi-agent architecture component** of the BUMBA Framework - Building Unified Multi-agent Business Applications.
@@ -129,9 +133,11 @@ The Forty Thieves agency is the **multi-agent architecture component** of the BU
 | **Testing** | Quality assurance, security, performance | 🟠 |
 | **Completion** | Deployment, monitoring, SRE, operations | 🏁 |
 
+
 ## 📖 The Legend
 
 > *In the story of Ali Baba, forty thieves worked together, each with unique skills, to unlock treasures hidden in a cave. The Forty Thieves agency follows that tradition—forty specialized AI agents, each a master of their craft, working together within the BUMBA Framework to unlock software excellence.*
+
 
 ---
 
