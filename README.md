@@ -19,11 +19,11 @@
 
 Chiefs coordinate strategy and spawn specialists via the task tool for focused execution. All agents use Claude Code native tools (Read, Write, Edit, Grep, Glob, Task, Bash) and follow the ReAct pattern.
 
-<br>
+---
 
 ### 🏁 Example Workflow ###
 
-🟢 Engineering Chief receives auth request → spawns Backend Architect (design) + API Engineer (OAuth) + Database Specialist (schema) + 🟠 Security Auditor (review) → delivers integrated system.
+Engineering Chief receives auth request → spawns Backend Architect (design) + API Engineer (OAuth) + Database Specialist (schema) + Security Auditor (review) → delivers integrated system.
 
 <br>
 
