@@ -80,19 +80,6 @@ Chiefs coordinate strategy and spawn specialists via the task tool for focused e
 
 <br>
 
-### 🏁 Usage Directions ###
-
-
-```bash
-# Work with a Chief
-claude code --agent chiefs/engineering-chief.md
-claude code --agent chiefs/product-chief.md
-
-# Chiefs spawn specialists automatically as needed
-```
-
-<br>
-
 ### 🏁 Repository Instructions ###
 
 
