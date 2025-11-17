@@ -127,5 +127,4 @@ forty-thieves/
 <div align="center">
 
 🏁 BUMBA CLI Framework - Multi-Agent Orchestration Framework 🏁
-
 </div>
