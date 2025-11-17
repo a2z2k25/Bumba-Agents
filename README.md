@@ -114,22 +114,16 @@ forty-thieves/
 <br>
 
 **Agent Capabilities**
-- **40 specialized agents** across 5 domains (engineering, design, product, quality, operations)
-- **Hierarchical coordination** - chiefs delegate to specialists for optimal task execution
-- **Claude Code native** optimized for read, write, edit, grep, glob, task, bash tools
-- **Battle-tested patterns** RICE prioritization, ReAct loops, SRE principles, WCAG standards
-- **Production-ready** security audits, performance testing, scalability patterns
+- **40 Specialized Agents** - across 5 domains (engineering, design, product, quality, operations)
+- **Hierarchical Coordination** - chiefs delegate to specialists for optimal task execution
+- **Claude Code Native** - optimized for read, write, edit, grep, glob, task, bash tools
+- **Battle-tested Patterns** - RICE prioritization, ReAct loops, SRE principles, WCAG standards
+- **Production-Ready** - security audits, performance testing, scalability patterns
 
 <br>
 
-**BUMBA Framework Integration**
-- **Professional Development** industry-standard workflows and coordination patterns
-- **Multi-agent Orchestration** intelligent task delegation and parallel execution
-- **Enterprise-Ready** quality enforcement, testing automation, deployment pipelines
-- **Consistent Structure** predictable agent definitions across all 40 specialists
-
---
-
+---
+<br>
 🏁 40 THIEVES - Multi-Agent Architecture for the BUMBA Framework 🏁
-
+<br>
 </div>
