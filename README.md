@@ -9,7 +9,7 @@
 
 <br>
 
-### 🏁 BUMBA CLI Framework Multi-Agent Orchestration ###
+### 🏁 Multi-Agent Orchestration ###
 
 40 specialized AI Agents. Hierarchical coordination. Production-ready patterns. Claude Code native. The Forty Thieves Agent Team combines 5 Chiefs (strategic leaders) and 35 Specialists (domain experts). Each Agent is a master of their craft, working together to unlock software excellence.
 
@@ -27,10 +27,10 @@ Chiefs coordinate strategy and spawn specialists via the task tool for focused e
 
 <br>
 
-### 🏁 Team Structure ###
+### 🏁 Agent Team Structure ###
 
 ```
-Forty Thieves:
+40 Thieves:
 │
 ├── 🟢 Engineering Chief
 │   ├── Backend Architect
@@ -68,7 +68,7 @@ Forty Thieves:
 │   ├── Automation Engineer
 │   └── Mobile Tester
 │
-└── 🏁 Operations Chief
+└── 🟠 Operations Chief
     ├── Cloud Architect
     ├── DevOps Specialist
     ├── Kubernetes Engineer
@@ -123,7 +123,9 @@ forty-thieves/
 <br>
 
 ---
-<br>
-🏁 40 THIEVES - Multi-Agent Architecture for the BUMBA Framework 🏁
-<br>
+
+<div align="center">
+
+🏁 BUMBA CLI Framework - Multi-Agent Orchestration Framework 🏁
+
 </div>
